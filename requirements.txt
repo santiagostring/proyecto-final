@@ -1,0 +1,7 @@
+playwright
+pandas
+sqlalchemy
+faker
+beautifulsoup4
+scikit-learn
+
